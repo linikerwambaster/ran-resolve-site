@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 560"><defs>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7a4f00"/><stop offset=".16" stop-color="#f6d56a"/><stop offset=".36" stop-color="#c58a14"/><stop offset=".52" stop-color="#fff0a8"/><stop offset=".72" stop-color="#b77a0e"/><stop offset="1" stop-color="#5f3b00"/></linearGradient>
+ <linearGradient id="goldV" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffe58a"/><stop offset=".45" stop-color="#d49a1c"/><stop offset=".6" stop-color="#8a5a00"/><stop offset="1" stop-color="#f1c551"/></linearGradient>
+ <linearGradient id="silver" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset=".3" stop-color="#d3d5da"/><stop offset=".5" stop-color="#8e9198"/><stop offset=".7" stop-color="#f5f6f8"/><stop offset="1" stop-color="#a3a6ad"/></linearGradient>
+ <linearGradient id="silverV" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset=".5" stop-color="#bfc2c8"/><stop offset=".55" stop-color="#8e9198"/><stop offset="1" stop-color="#ececef"/></linearGradient>
+</defs><g><path d="M28 560 V28 H300 A190 190 0 0 1 300 408 H28" fill="none" stroke="url(#gold)" stroke-width="56" stroke-linejoin="miter"/>
+    <polygon points="255,436 372,436 548,560 426,560" fill="url(#goldV)"/><path d="M112 560 V108 H290 A135 135 0 0 1 290 378 H112" fill="none" stroke="#000" stroke-width="98" stroke-linejoin="miter"/>
+    <polygon points="238,402 365,402 506,574 366,574" fill="#000"/><path d="M112 560 V108 H290 A135 135 0 0 1 290 378 H112" fill="none" stroke="url(#silver)" stroke-width="66" stroke-linejoin="miter"/>
+    <polygon points="250,411 352,411 478,560 378,560" fill="url(#silverV)"/><path d="M150 160 H252 A88 88 0 0 1 252 336 H150 Z" fill="#000"/>
+    <path d="M160 170 H252 A78 78 0 0 1 252 326 H160 Z M205 212 H252 A36 36 0 0 1 252 284 H205 Z" fill="url(#gold)" fill-rule="evenodd"/></g></svg>
